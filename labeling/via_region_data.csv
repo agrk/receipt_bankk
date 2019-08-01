@@ -1,0 +1,4 @@
+#filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+receipt(90).jpeg,148117,"{}",0,0,"{}","{}"
+receipt(78).jpeg,111294,"{}",0,0,"{}","{}"
+receipt(80).jpeg,115923,"{}",1,0,"{""name"":""rect"",""x"":160,""y"":819,""width"":907,""height"":154}","{}"
